@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<AppInstaller
+	Uri="file://winserver/Users/Administrator/Desktop/CentpiaApps/MSIX/CAW/WapProjTemplate1.appinstaller"
+	Version="1.0.14.0" xmlns="http://schemas.microsoft.com/appx/appinstaller/2021">
+	<MainBundle
+		Name="dd6e4d9a-18e0-43b4-8c3f-99468537c173"
+		Version="1.0.14.0"
+		Publisher="CN=Administrator"
+		Uri="file://winserver/Users/Administrator/Desktop/CentpiaApps/MSIX/CAW/WapProjTemplate1_1.0.14.0_Test/WapProjTemplate1_1.0.14.0_x86.msixbundle" />
+	<UpdateSettings>
+		<OnLaunch
+			HoursBetweenUpdateChecks="0" />
+	</UpdateSettings>
+</AppInstaller>
